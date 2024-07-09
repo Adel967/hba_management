@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615779667628",
+    "project_id": "hba-hotel",
+    "storage_bucket": "hba-hotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615779667628:android:a3428354d1b48853e31909",
+        "android_client_info": {
+          "package_name": "com.example.hba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDSiV3yo-0xLevZjmxe8sBxcSKyaTgTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615779667628:android:c12254d2cf578246e31909",
+        "android_client_info": {
+          "package_name": "com.example.hba_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDSiV3yo-0xLevZjmxe8sBxcSKyaTgTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
